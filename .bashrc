@@ -27,4 +27,5 @@ alias pi="~/pinger.sh"
 alias st="~/starter.sh"
 alias ke="~/keystart.sh"
 alias discord="flatpak run com.discordapp.Discord"
+alias flatseal="flatpak run com.github.tchx84.Flatseal"
 PS1='[\u@\h \W]\$ '
